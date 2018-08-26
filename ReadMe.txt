@@ -8,3 +8,4 @@ Creare a new branch dev
 after branch-feature update ,in master else upadte:
 在son分之下，修改ReadMe.txt文件
 在dev分支下，修改ReadMe.txt文件
+在dev分之下，练习bug分支
